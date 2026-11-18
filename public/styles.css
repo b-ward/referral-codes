@@ -16,3 +16,5 @@
 .claim-panel .risk-note,.claim-panel .claim-check{font-size:.875rem!important}
 @media(max-width:600px){.phone-handoff{display:none}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
+
+.analytics-consent{position:fixed;bottom:16px;left:16px;right:16px;margin:auto;max-width:650px;padding:22px;background:white;border:1px solid var(--ink);box-shadow:0 5px 25px #0002;z-index:70}.analytics-consent h2{font-size:1.5rem;margin:0 0 10px}.analytics-consent p{font-size:1rem;line-height:1.6;margin:0 0 16px}.analytics-consent>div{display:flex;flex-wrap:wrap;gap:12px}.analytics-settings{font:inherit;color:inherit;border:0;background:none;padding:0;text-decoration:underline;cursor:pointer;text-align:left}

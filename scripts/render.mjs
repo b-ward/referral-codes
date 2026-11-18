@@ -8,7 +8,7 @@ export function copyField(o, { home = false, value = o.code, kind = 'code' } = {
   const label = kind === 'link' ? `${o.name} invitation link` : `${o.name} referral code`;
   return `<div class="copy-field${home ? ' compact-copy' : ''}" data-copy-scope>
     <label ${home ? 'class="sr-only"' : ''} for="${id}">${esc(label)}</label>
-    <div class="copy-controls"><input id="${id}" readonly value="${esc(value)}" spellcheck="false" autocapitalize="off" aria-label="${esc(label)}"><button type="button" class="button ${o.claim.primary === 'code' && kind === 'code' ? 'button-dark' : 'button-light'}" data-copy="${esc(value)}" data-copy-kind="${kind}" hidden>${kind === 'link' ? 'Copy link' : 'Copy code'}</button></div>
+    <div class="copy-controls"><input id="${id}" readonly value="${esc(value)}" spellcheck="false" autocapitalize="off" aria-label="${esc(label)}"><button type="button" class="button ${o.claim.primary === 'code' && kind === 'code' ? 'button-dark' : 'button-light'}" data-copy="${esc(value)}" data-copy-kind="${kind}" data-brand="${esc(o.slug)}" hidden>${kind === 'link' ? 'Copy link' : 'Copy code'}</button></div>
     ${!home && kind === 'code' ? `<p class="copy-help">${esc(o.claim.codeNote || 'You can also tap and hold the code to copy it manually.')}</p>` : ''}
   </div>`;
 }
@@ -17,7 +17,7 @@ export function renderHome({ site, offers, visible, isLive, now, url, badge, dis
   const reviewedAt = offers.map(o => o.research.checkedAt).sort().at(-1);
   const rows = visible.map(o => {
     const code = o.code ? copyField(o, { home: true }) : '';
-    const link = `<a class="button ${o.claim.primary === 'code' ? 'button-light' : 'button-dark'}" href="${esc(o.referralUrl)}" rel="sponsored noopener" aria-label="${esc(o.claim.label)}">${o.claim.primary === 'code' ? 'Open app' : 'Open invitation'}</a>`;
+    const link = `<a class="button ${o.claim.primary === 'code' ? 'button-light' : 'button-dark'}" href="${esc(o.referralUrl)}" rel="sponsored noopener" data-referral-brand="${esc(o.slug)}" aria-label="${esc(o.claim.label)}">${o.claim.primary === 'code' ? 'Open app' : 'Open invitation'}</a>`;
     return `<article class="offer-row" data-offer data-name="${esc(`${o.name} ${o.category}`.toLowerCase())}" data-category="${esc(o.category)}">
       <div class="service">${badge(o)}<div><h3><a href="${url(`/guide/${o.slug}/`)}">${esc(o.name)}</a></h3><span class="category-label">${esc(o.category)}</span></div></div>
       <div class="row-offer"><p class="row-reward">${esc(o.reward)}</p><p>${esc(o.eligibility)}</p><span class="claim-method">${esc(o.claim.method)}</span>${o.riskNote ? '<span class="card-risk">Capital at risk. Read the product terms.</span>' : ''}</div>
@@ -42,7 +42,7 @@ export function renderHome({ site, offers, visible, isLive, now, url, badge, dis
 }
 
 export function renderGuide({ o, live, site, url, badge, questions, faq, answer, promotion, related }) {
-  const link = live ? `<a class="button ${o.claim.primary === 'code' ? 'button-light' : 'button-dark'} claim-link" href="${esc(o.referralUrl)}" rel="sponsored noopener">${esc(o.claim.label)}</a>` : '';
+  const link = live ? `<a class="button ${o.claim.primary === 'code' ? 'button-light' : 'button-dark'} claim-link" href="${esc(o.referralUrl)}" rel="sponsored noopener" data-referral-brand="${esc(o.slug)}">${esc(o.claim.label)}</a>` : '';
   const code = live && o.code ? copyField(o) : '';
   const phone = live ? `<details class="phone-handoff"><summary>Use this invitation on your phone</summary><img src="${url(`/qr/${o.slug}.svg`)}" alt="QR code for the personal ${esc(o.name)} invitation" width="220" height="220" loading="lazy"><p>Scan with your phone’s camera. This opens the same personal invitation.</p>${copyField(o, { value: o.referralUrl, kind: 'link' })}</details>` : '';
   const claim = `<aside class="claim-panel" id="claim" aria-labelledby="claim-title"><div class="claim-top">${badge(o)}<span>${live ? 'THE INVITATION' : 'UNAVAILABLE'}</span></div><h2 id="claim-title">${live ? esc(o.reward) : 'Offer unavailable'}</h2><p>${esc(live ? o.eligibility : o.availabilityNote || 'There is no live invitation to claim here.')}</p>${live && o.riskNote ? `<p class="risk-note">${esc(o.riskNote)}</p>` : ''}${o.claim.primary === 'code' ? `${code}${link}` : `${link}${code}`}${live ? `<p class="claim-check">${esc(o.claim.check)}</p>${phone}<p class="small">Details checked <time datetime="${o.research.checkedAt}">${esc(date(o.research.checkedAt))}</time></p>` : ''}<p class="claim-disclosure">I may receive a reward if a qualifying referral is completed.</p></aside>`;

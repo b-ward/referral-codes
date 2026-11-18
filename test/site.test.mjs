@@ -72,7 +72,7 @@ test('invitation links are sponsored and codes remain selectable without JS', as
   const forest = await f.html('guide/forest/index.html');
   assert.match(forest, /href="https:\/\/link.forest.me\/referral\/pi1pLj3a" rel="sponsored noopener"/);
   assert.match(forest, /readonly value="pi1pLj3a"/);
-  assert.match(forest, /data-copy="pi1pLj3a" data-copy-kind="code" hidden/);
+  assert.match(forest, /data-copy="pi1pLj3a" data-copy-kind="code"[^>]* hidden/);
   assert.doesNotMatch(await f.html('guide/lime/index.html'), /data-copy-kind="code"/);
   assert.match(await f.html('guide/uber/index.html'), /Up to £5 off each ride/);
 });
@@ -334,7 +334,7 @@ test('copying multiple codes and links uses the clicked field and selects that f
   });
   const document = { querySelector(selector) { return selector === '.toast' ? toast : null; }, querySelectorAll() { return buttons; } };
   const navigator = { clipboard: { async writeText(value) { values.push(value); } } };
-  vm.runInNewContext(app, { document, navigator, setTimeout() { return 1; }, clearTimeout() {} });
+  vm.runInNewContext(app, { document, navigator, window: {}, setTimeout() { return 1; }, clearTimeout() {} });
   await handlers[0](); await handlers[1](); await handlers[2]();
   assert.deepEqual(values, buttons.map(b => b.dataset.copy));
   assert.match(toast.textContent, /Invitation link copied/);
@@ -348,4 +348,16 @@ test('copying multiple codes and links uses the clicked field and selects that f
   await handlers[2]();
   assert.equal(inputs[2].selected, true);
   assert.match(toast.textContent, /Invitation link copied/);
+});
+
+test('analytics is enabled only for public builds and uses the configured ID and consent controls', async t => {
+ const publicBuild = await fixture(t, liveSite);
+ const html = await publicBuild.html('index.html');
+ assert.match(html, /<meta name="ga4-id" content="G-Q63L739CS5">/);
+ assert.equal((html.match(/data-analytics-panel/g) || []).length, 1);
+ assert.match(html, /data-analytics-settings hidden/);
+ assert.doesNotMatch(html, /<script[^>]+src="https:\/\/www.googletagmanager.com/);
+ assert.match(await publicBuild.html('_headers'), /connect-src 'self' https:\/\/\*\.google-analytics\.com/);
+ const local = await fixture(t);
+ assert.doesNotMatch(await local.html('index.html'), /name="ga4-id"/);
 });

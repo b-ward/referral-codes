@@ -33,6 +33,7 @@ document.querySelectorAll('[data-copy]').forEach(button => {
     const input = scope.querySelector('input');
     const kind = button.dataset.copyKind || 'code';
     const success = () => {
+      window.sidekickTrack?.(kind === 'link' ? 'referral_link_copy' : 'referral_code_copy', button.dataset.brand);
       button.textContent = 'Copied!';
       toast.textContent = kind === 'link' ? 'Invitation link copied. Open it on your phone to continue.' : 'Referral code copied. Follow the claim instructions to apply it.';
     };

@@ -99,7 +99,7 @@ Review GitHub Pages' restriction on sites primarily directed at facilitating com
 - Submit the canonical sitemap to Google Search Console after launch. Inspect each guide and verify live HTTP responses and indexing.
 - Test exact deep links on iOS/Android with eligible new accounts. Automated browser fetches could not inspect them; do not label them independently verified.
 - Review offer accuracy and your own programme's public-sharing terms regularly. Add useful first-hand details when available rather than repetitive keyword/city pages.
-- Review the privacy page once the host is selected. No external fonts, analytics, storage, accounts or form backends are used here.
+- Review the privacy page once the host is selected. Public builds enable optional GA4 only after consent; previews do not load analytics. The browser remembers the choice for 180 days. Footer Analytics settings allows withdrawal. Custom events: referral_click, referral_code_copy and referral_link_copy, each with the brand slug.
 - `public/social.png` is the committed 1200×630 sharing image, referenced with an absolute URL when the origin is configured. `public/social.svg` is an editable source concept. On Windows, regenerate the PNG with `./scripts/render-social.ps1`; this is not part of the dependency-free build.
 
 ## Sources
