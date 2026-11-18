@@ -1,0 +1,114 @@
+{
+  "lime": {
+    "file": "/brands/lime.jpg",
+    "sourceUrl": "https://apps.apple.com/gb/app/lime-ridegreen/id1199780189?uo=4",
+    "assetUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/c9/32/8ac93273-9aa9-ade4-eb7f-eb466a77084d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "db89e855a0f7c3114868628e36028e8880d1c596c67a0115972ce8797d527cea"
+  },
+  "voi": {
+    "file": "/brands/voi.jpg",
+    "sourceUrl": "https://apps.apple.com/gb/app/voi-e-scooters-e-bikes/id1395921017?uo=4",
+    "assetUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/a0/43/e8a04387-8b0f-f4e2-e639-b9c51c3104bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "7411dce2e0b381f6397f69638365d09d6f01ea3b1692b05df4a7894abc93b032"
+  },
+  "uber": {
+    "file": "/brands/uber.jpg",
+    "sourceUrl": "https://apps.apple.com/gb/app/uber-rides-eats-and-more/id368677368?uo=4",
+    "assetUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/77/4d/3e774d61-fcf9-f330-9e9c-cad0bca4b8f4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "6ed09df15f203392e15db32d5886b62ff83a1dcdbcfd38032a968fd96ca90f7a"
+  },
+  "uber-eats": {
+    "file": "/brands/uber-eats.jpg",
+    "sourceUrl": "https://apps.apple.com/gb/app/uber-eats-food-groceries/id1058959277?uo=4",
+    "assetUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ce/83/63ce8392-148f-2dfa-8fb4-5d61ad12e22f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "d8f35153238dd6ba203f45ed5b684d86ed2a5ad3c4ab20a6bb532051d19769cf"
+  },
+  "gopuff": {
+    "file": "/brands/gopuff.jpg",
+    "sourceUrl": "https://apps.apple.com/gb/app/gopuff-grocery-delivery/id722804810?uo=4",
+    "assetUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/26/78/1e2678ef-10f3-5221-0ee8-bd33094513de/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "c2317f5d51dcc804a1e4b89ed674f733d422ff47fb04719ccc3773c3939bac91"
+  },
+  "lebara": {
+    "file": "/brands/lebara.jpg",
+    "sourceUrl": "https://apps.apple.com/gb/app/mylebara/id1122491914?uo=4",
+    "assetUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/67/95/25679536-3c10-2e3b-f138-602176daa1a5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "9fa6267e8d8b9695bbf27260b75f361e2ff87882ce6677a0bfb4147ef1be5193"
+  },
+  "binance": {
+    "file": "/brands/binance.jpg",
+    "sourceUrl": "https://apps.apple.com/gb/app/binance-buy-bitcoin-crypto/id1436799971?uo=4",
+    "assetUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/2d/be/762dbedd-02f7-d889-4d96-9c910a7889c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "ec497ba43922683902f77a1c0d00b15583ff1dbcee2027b2a027216f35180ec1"
+  },
+  "forest": {
+    "file": "/brands/forest.png",
+    "sourceUrl": "https://forest.bike/",
+    "assetUrl": "https://cdn.prod.website-files.com/6a0b39a34aa2702902d9eb35/6a43d46478b2d9a33cbe8a0b_Group%20638470.png",
+    "retrievedAt": "2026-11-18",
+    "sha256": "8bfc9a3c3c3b1f6d66119296614484f1912649fe2bb099bb9a8f05a944927948"
+  },
+  "octopus-energy": {
+    "file": "/brands/octopus-energy.png",
+    "sourceUrl": "https://octopus.energy/",
+    "assetUrl": "https://static.octopuscdn.com/favicons/apple-touch-icon.png",
+    "retrievedAt": "2026-11-18",
+    "sha256": "b4ec7067a48492192d5883a2cc4b53876587abf22c456177bde3478017321035"
+  },
+  "wise": {
+    "file": "/brands/wise.png",
+    "sourceUrl": "https://wise.com/",
+    "assetUrl": "https://wise.com/public-resources/assets/icons/wise-personal/apple_touch_icon.png",
+    "retrievedAt": "2026-11-18",
+    "sha256": "0306b7127c224a8a0b95e74a080628119c534224d58a7c01e73630af3b9dbc2f"
+  },
+  "yonder": {
+    "file": "/brands/yonder.png",
+    "sourceUrl": "https://www.yonder.com/",
+    "assetUrl": "https://cdn.prod.website-files.com/6209512878b45f39119ebfb5/6232234a8499f5210ab0a283_YONDER_LOGO_ICON_LIGHT%201.png",
+    "retrievedAt": "2026-11-18",
+    "sha256": "2c595224e721fc510c5282b2d4af2bfb2132f34cb2e03b9612b937224c05cb3e"
+  },
+  "plum": {
+    "file": "/brands/plum.png",
+    "sourceUrl": "https://withplum.com/",
+    "assetUrl": "https://withplum.com/favicon-light/favicon-96x96.png",
+    "retrievedAt": "2026-11-18",
+    "sha256": "aa4349f2df1d15140d45a6301666c8723f7adf457c09575dcdbae3beed0b1681"
+  },
+  "monzo": {
+    "file": "/brands/monzo.svg",
+    "sourceUrl": "https://monzo.com/",
+    "assetUrl": "https://static-assets.monzo.com/monzo-com/c324e9e8c0d115784529f366c1d9f08ebc446131/_next/static/media/favicon.4c6ebc6f.svg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "ac1aa7a41d4f28504811029e77948c698d188a7f43d8dfa6b97aadf4ca2ca430"
+  },
+  "jp-morgan-personal-investing": {
+    "file": "/brands/jp-morgan-personal-investing.svg",
+    "sourceUrl": "https://www.personalinvesting.jpmorgan.com/",
+    "assetUrl": "https://www.personalinvesting.jpmorgan.com/static-assets/icons/favicon.svg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "db8060e9ea6a4bb7a14814ef566f755868b66f271766ba337a290d36186c72d9"
+  },
+  "etoro": {
+    "file": "/brands/etoro.svg",
+    "sourceUrl": "https://www.etoro.com/",
+    "assetUrl": "https://www.etoro.com/wp-content/uploads/favicons/favicon.svg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "879aaa50ae8cd43d315fbb1b54628ab3e9a6f69fcfe3c2d904769acef8dfb3a2"
+  },
+  "eatclub": {
+    "file": "/brands/eatclub.svg",
+    "sourceUrl": "https://eatclub.com.au/",
+    "assetUrl": "https://eatclub.com.au/_next/static/media/eatclub.c1e62791.svg",
+    "retrievedAt": "2026-11-18",
+    "sha256": "41a9d82575423a560f4011cba5d4e0391d8fddf259e76c2e7fb2e927fa7f0ea9"
+  }
+}

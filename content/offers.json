@@ -1,0 +1,973 @@
+[
+  {
+    "slug": "lime",
+    "name": "Lime",
+    "mark": "li",
+    "category": "Travel",
+    "description": "A little help with your next ride across town.",
+    "intro": "Get £4 ride credit with my Lime referral invitation. Open the link on your phone before you create an account, then check the offer and qualifying conditions shown by Lime.",
+    "context": "Lime uses referral links to connect an invitation with a new account. Open the invitation before signing up, then check the offer displayed by Lime. Rewards and availability can differ by location.",
+    "steps": [
+      "Open the personal referral link on the phone you will use for Lime.",
+      "Follow Lime’s instructions to create your account and review the invitation terms.",
+      "Check the reward in the app before you ride, including its expiry and any first-ride deadline."
+    ],
+    "tip": "Keep the invitation open until you have followed its sign-up instructions. A regular app download may not attach the referral.",
+    "sourceUrl": "https://help.li.me/hc/en-gb/articles/115004746987-Does-Lime-have-a-referral-program",
+    "sourceLabel": "Lime’s referral help",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://lime.bike/referral_signin/RHF7BLB",
+    "reward": "£4 ride credit",
+    "eligibility": "New accounts through the referral link; location conditions apply.",
+    "terms": [
+      "The personal invitation shared on 18 November 2026 advertises £4 ride credit.",
+      "Lime’s referral help says a referred rider must create a new account through the link and ride within 60 days for the referral bonus to qualify.",
+      "Check the invitation and app for the credit’s expiry and local availability before riding. The invite has not been independently redeemed by this site."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "How much is the Lime referral reward?",
+        "The personal Lime invitation supplied on 18 November 2026 advertises £4 ride credit. Open the invitation before creating an account and check the reward and conditions shown by Lime for your location."
+      ],
+      [
+        "Can I enter a Lime referral code manually?",
+        "This page provides a Lime referral link, not a confirmed manually redeemable code. Use the invitation link before creating an account. Do not assume the identifier in the URL can be typed into a promo field."
+      ],
+      [
+        "Do existing Lime riders qualify?",
+        "This invitation is for new accounts created through the referral link. Lime’s referral help says the referred rider must take a ride within 60 days for the referral bonus to qualify; local availability and invitation conditions still apply."
+      ]
+    ],
+    "claim": {
+      "primary": "link",
+      "label": "Open Lime invitation",
+      "method": "Link before sign-up",
+      "mobile": "Open this invitation on your phone before creating your Lime account. Install the app if prompted, then finish the invitation’s sign-up flow.",
+      "desktop": "Scan the QR code with your phone, or copy this invitation link to your phone. Use the invitation rather than a separate app-store download.",
+      "check": "Check the offer and its expiry in Lime before unlocking a bike or scooter."
+    },
+    "research": {
+      "label": "Personal invite + provider instructions",
+      "note": "The £4 amount comes from Brendon’s shared invitation. Lime confirms link-based new-account attribution and a qualifying first ride within 60 days; the invitation has not been redeemed as a test.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Lime referral help",
+        "url": "https://help.li.me/hc/en-gb/articles/115004746987-Does-Lime-have-a-referral-program"
+      }
+    ]
+  },
+  {
+    "slug": "forest",
+    "name": "Forest",
+    "mark": "f",
+    "category": "Travel",
+    "description": "For the scenic route, or just getting home.",
+    "intro": "Use my Forest invitation or code pi1pLj3a when joining. The shared message does not state the reward amount, so check what Forest offers you before taking a paid ride.",
+    "context": "Before your first journey, check the Forest app for the current referral instructions, service area and parking rules. The invitation will explain which sign-up or ride steps count towards the reward.",
+    "steps": [
+      "Open the Forest invitation or copy pi1pLj3a from the referral panel. Check the current offer and who can use it.",
+      "Follow the referral instructions in Forest before starting a qualifying ride.",
+      "Check that the offer is visible in the app, along with any deadline or restrictions."
+    ],
+    "tip": "Check the parking map before setting off. Referral rewards do not replace the service’s riding and parking rules.",
+    "sourceUrl": "https://www.forest.me/",
+    "sourceLabel": "Forest’s official website",
+    "status": "active",
+    "code": "pi1pLj3a",
+    "referralUrl": "https://link.forest.me/referral/pi1pLj3a",
+    "reward": "Reward shown in the Forest app",
+    "eligibility": "For sign-ups using this invitation; check eligibility in Forest.",
+    "terms": [
+      "The personal invitation shared on 18 November 2026 advertises exclusive rewards, without specifying an amount.",
+      "No fixed cash value, ride time or discount is promised here. Check Forest’s invitation and app before signing up or riding.",
+      "Check any qualifying activity, expiry and location restrictions in the app. The invite has not been independently redeemed by this site."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "What is the Forest referral code?",
+        "The Forest referral code is pi1pLj3a. Copy it exactly, including capital letters, or open the personal invitation link. Follow Forest’s instructions when signing up."
+      ],
+      [
+        "What reward does the Forest code give?",
+        "The shared Forest invitation advertises exclusive sign-up rewards but does not specify an amount. Check the invitation and Forest app for the actual reward, eligible accounts, qualifying activity and expiry before signing up."
+      ]
+    ],
+    "rewardSummary": "The exact visitor reward is not publicly confirmed for this invitation. The app shows the reward and its conditions; no fixed number of free minutes is promised here.",
+    "claim": {
+      "primary": "link",
+      "label": "Open Forest invitation",
+      "method": "Link, with a code if requested",
+      "mobile": "Open the personal invitation on your phone and follow the app-download/sign-up route. If Forest asks for a referral code, paste pi1pLj3a exactly.",
+      "desktop": "The invitation redirects to Forest’s phone-download page. Scan this QR code to open the same personal invitation on your phone.",
+      "codeNote": "Use this code only where Forest asks for a referral code during its invitation flow.",
+      "check": "Confirm the actual reward in the app before riding. The amount was not stated in the shared message."
+    },
+    "research": {
+      "label": "Reward amount not confirmed",
+      "note": "The personal link was checked and redirects to Forest’s app-download handoff. A fixed referral allowance and exact in-app code-field location could not be confirmed from public provider information.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Personal Forest invitation",
+        "url": "https://link.forest.me/referral/pi1pLj3a"
+      },
+      {
+        "label": "Forest help centre",
+        "url": "https://help.forest.bike/en/"
+      }
+    ]
+  },
+  {
+    "slug": "voi",
+    "name": "Voi",
+    "mark": "voi",
+    "category": "Travel",
+    "description": "Make a little more of your local journeys.",
+    "intro": "My Voi invitation advertises a free ride when you join using the referral link. Open it on your phone and check Voi’s conditions, including any ride limit, before signing up.",
+    "context": "Check Voi’s app for local vehicle availability and the rules that apply to your account. Referral eligibility and reward conditions should be confirmed in the invitation before you start a ride.",
+    "steps": [
+      "Open the full Voi invitation on your phone.",
+      "Follow the app handoff and referral-redemption instructions, then complete the required account steps.",
+      "Check the discount and its time/value limit in Voi before starting a paid ride."
+    ],
+    "tip": "Use the offer in the area it is intended for. An invitation does not guarantee that vehicles are available in your location.",
+    "sourceUrl": "https://www.voi.com/",
+    "sourceLabel": "Voi’s official website",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://lqfa.adj.st/redeemReferral?adj_campaign=referral&adj_deep_link=https%3A%2F%2Fopen.voi.com%2FredeemReferral%3Fgiss%3DJQfJeHIcIfaNINPbOQJLLOJcMQaJNQbd&adj_label=JQfJeHIcIfaNINPbOQJLLOJcMQaJNQbd&adj_t=15ia4lhx&giss=JQfJeHIcIfaNINPbOQJLLOJcMQaJNQbd",
+    "reward": "Free ride; allowance shown in Voi",
+    "eligibility": "Join using the invitation; check account and location eligibility.",
+    "terms": [
+      "The personal invitation shared on 18 November 2026 describes a free ride. It does not specify a time or monetary cap.",
+      "Check Voi’s invitation and app for the ride allowance, expiry, eligible locations and any qualifying activity. Do not assume the allowance covers a ride of any length.",
+      "Follow the referral link on your phone before joining. The invite has not been independently redeemed by this site."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "How do I get the Voi referral ride?",
+        "Open the Voi invitation link on your phone and follow the sign-up instructions. The shared invitation describes a free ride, but does not state the allowance or expiry. Check those limits in Voi before riding."
+      ],
+      [
+        "Is the Voi referral ride unlimited?",
+        "An unlimited ride is not confirmed. The shared invitation does not specify a time or monetary cap. Check the allowance and conditions in Voi rather than assuming the offer covers any ride length."
+      ],
+      [
+        "Is there a Voi code to copy?",
+        "This page provides a Voi invitation link, not a confirmed manually redeemable code. Keep the full link intact so that its referral information reaches the app."
+      ]
+    ],
+    "claim": {
+      "primary": "link",
+      "label": "Open Voi invitation",
+      "method": "Open the full referral link",
+      "mobile": "Open this full invitation on your phone and follow Voi’s redemption instructions. Keep its referral parameters intact when moving to the app.",
+      "desktop": "Scan the QR code to open the invitation on your phone. A desktop request may be sent to an app-store page; use the original invitation on the phone, not a copied final store URL.",
+      "check": "Check the ride allowance, expiry and discount in Voi before starting your ride."
+    },
+    "research": {
+      "label": "Free-ride invite; cap not confirmed",
+      "note": "The supplied message says “free ride”. The link was checked and hands off to the app store with referral attribution. No unlimited allowance or manually redeemable code was confirmed.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Personal Voi invitation",
+        "url": "https://lqfa.adj.st/redeemReferral?adj_campaign=referral&adj_deep_link=https%3A%2F%2Fopen.voi.com%2FredeemReferral%3Fgiss%3DJQfJeHIcIfaNINPbOQJLLOJcMQaJNQbd&adj_label=JQfJeHIcIfaNINPbOQJLLOJcMQaJNQbd&adj_t=15ia4lhx&giss=JQfJeHIcIfaNINPbOQJLLOJcMQaJNQbd"
+      },
+      {
+        "label": "Voi help centre",
+        "url": "https://www.voi.com/help"
+      }
+    ]
+  },
+  {
+    "slug": "uber",
+    "name": "Uber",
+    "mark": "Uber",
+    "category": "Travel",
+    "description": "A better start to your first trip.",
+    "intro": "Get 50% off your first five Uber rides, up to £5 off each ride, with my personal referral invitation. Check the offer shown by Uber before creating your account. This invitation is for rides, not Uber Eats.",
+    "context": "Uber promotions can depend on your account and location. Check the invitation for eligibility. Uber’s help explains that a promo needs to be added before requesting a trip; it cannot be applied afterwards.",
+    "steps": [
+      "Open the personal invitation before creating your Uber account.",
+      "Complete the invitation’s registration flow on the web or your phone.",
+      "Check Wallet → Promotions for the applicable discount before requesting your first trip."
+    ],
+    "tip": "Add a promo before booking. Check the maximum discount, expiry and eligible area in the app rather than assuming the whole fare is covered.",
+    "sourceUrl": "https://help.uber.com/riders/article/promotions-faqs?nodeId=29381cb1-32ba-453d-8351-333bee90d1a2",
+    "sourceLabel": "Uber’s promotions help",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://referrals.uber.com/refer?id=deuqtm2jp9bt",
+    "reward": "50% off your first 5 rides",
+    "eligibility": "Up to £5 off each ride. For new Uber riders; invitation terms apply.",
+    "terms": [
+      "The personal invitation shared on 18 November 2026 advertises 50% off your first five Uber rides, capped at £5 off each ride.",
+      "This is a ride discount, not cash or a guarantee of free trips. Any remaining fare is payable by you.",
+      "Apply the invitation before requesting your first ride. Check Uber for eligible locations, ride types, expiry and account restrictions.",
+      "The invite has not been independently redeemed by this site."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "What is the Uber referral offer?",
+        "The shared Uber invitation advertises 50% off each of your first five rides, capped at £5 off each ride. It is for new riders, subject to the eligibility, location, expiry and ride conditions displayed by Uber."
+      ],
+      [
+        "Does this Uber referral work for Uber Eats?",
+        "This invitation is for Uber Rides. It does not advertise an Uber Eats reward."
+      ],
+      [
+        "When should I apply the Uber referral?",
+        "Use the personal invitation before requesting your first trip. Check the promotion and its conditions in Uber’s Wallet before booking; Uber says a promo cannot be applied after a trip has been requested."
+      ]
+    ],
+    "claim": {
+      "primary": "link",
+      "label": "Open Uber invitation",
+      "method": "Personal sign-up link",
+      "mobile": "Open the personal invitation before creating your Uber account, then follow the registration instructions. There is no confirmed manual code on this page.",
+      "desktop": "Open the invitation on the web and follow any phone-number handoff. You can also scan the QR code to start from your phone.",
+      "check": "In Uber, check Account → Wallet → Promotions before requesting a ride. Confirm 50% off, capped at £5 per ride, for the qualifying rides."
+    },
+    "research": {
+      "label": "Personal invite + provider instructions",
+      "note": "The 50% discount, five rides and £5-per-ride cap come from the supplied invitation. Uber’s help confirms that promotions must be applied before a trip is requested.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Uber promotion instructions",
+        "url": "https://help.uber.com/riders/article/promotions-faqs?nodeId=29381cb1-32ba-453d-8351-333bee90d1a2"
+      }
+    ]
+  },
+  {
+    "slug": "yonder",
+    "name": "Yonder",
+    "mark": "y",
+    "category": "Money",
+    "description": "A points welcome offer, with product and qualifying conditions to check.",
+    "intro": "My Yonder invitation offers up to 20,000 welcome points on Premium Credit after £1,000 spend in the first 30 days. Use the link, with code IZGYLZM if requested. Premium is £17.99 a month; the invitation quotes 73.1% representative APR. Borrow responsibly.",
+    "context": "An invitation is not a guarantee of acceptance or rewards. Read Yonder’s own information about the selected product, eligibility, fees and any qualifying activity. Choose a product based on whether it suits you, rather than the referral reward alone.",
+    "steps": [
+      "Open the personal invitation and check which product and membership it covers.",
+      "Read the current eligibility, pricing and any conditions attached to a welcome reward.",
+      "If you decide to proceed, follow Yonder’s application process and keep a copy of the invitation terms."
+    ],
+    "tip": "Read the product information on Yonder’s own website. The selected card and membership can affect the terms you are offered.",
+    "sourceUrl": "https://www.yonder.com/",
+    "sourceLabel": "Yonder’s official website",
+    "status": "active",
+    "code": "IZGYLZM",
+    "referralUrl": "https://join.yondercard.com/izgylzm",
+    "reward": "Up to 20,000 Yonder points",
+    "eligibility": "New UK applicants aged 18+; Premium Credit, approval and £1,000 spend in 30 days for the advertised 20,000-point offer.",
+    "terms": [
+      "The personal invitation landing page describes up to 20,000 Premium Credit welcome points after £1,000 spend in the first 30 days.",
+      "The page quotes £17.99 per month and 73.1% representative APR for Premium Credit. UK applicants must be 18+ and meet the provider’s eligibility and approval requirements.",
+      "The landing page says people who have already started signing up are not eligible for this invitation. Other card products have different benefits. Check the displayed terms before applying."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "What is the Yonder referral code?",
+        "Use IZGYLZM if the invitation asks for a referral code. Opening the personal link is the first step."
+      ],
+      [
+        "How do I earn the advertised 20,000 points?",
+        "The reviewed invitation specifies Premium Credit and £1,000 spend in the first 30 days, subject to eligibility and approval. Other products and welcome rewards differ."
+      ]
+    ],
+    "riskNote": "Premium Credit: £17.99/month. Representative APR 73.1%. UK, 18+, eligibility and approval apply. Borrow responsibly; read the current invitation terms.",
+    "claim": {
+      "primary": "link",
+      "label": "Open Yonder invitation",
+      "method": "Open the link; code if requested",
+      "mobile": "Open the invitation before beginning an application. The personal page carries the referral code; if the referral field is empty, paste IZGYLZM. Follow Yonder’s application and app instructions.",
+      "desktop": "You can start on the invitation’s web form, or scan the QR code for your phone. If asked for a referral code, use IZGYLZM before continuing.",
+      "codeNote": "The invitation carries this code. Paste it only if Yonder’s referral-code field asks for it.",
+      "check": "Check the selected product, fees and spend deadline. The 20,000-point offer reviewed here is for Premium Credit, not every Yonder card."
+    },
+    "research": {
+      "label": "Personal invitation page checked",
+      "note": "The supplied link resolves to Yonder’s referral landing page with IZGYLZM attached. The Premium Credit points, spend threshold, monthly fee and representative APR were read there; no application was submitted.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Personal Yonder invitation and terms",
+        "url": "https://join.yondercard.com/izgylzm"
+      },
+      {
+        "label": "Yonder card information",
+        "url": "https://www.yonder.com/"
+      }
+    ]
+  },
+  {
+    "slug": "uber-eats",
+    "name": "Uber Eats",
+    "mark": "eats",
+    "category": "Food",
+    "description": "A welcome discount for your first two food orders.",
+    "intro": "Use my Uber Eats code eats-ns7b12g00e at checkout for £5 off each of your first two orders of £15 or more. Check the discount and any exclusions before paying.",
+    "context": "This invitation is for Uber Eats food orders. It is separate from the Uber Rides invitation on this site. Check whether fees or excluded items count towards the minimum spend.",
+    "steps": [
+      "Copy eats-ns7b12g00e or open the invitation link before ordering.",
+      "Build an eligible order of £15 or more and enter the code at checkout if the offer is not already attached.",
+      "Confirm the £5 discount before paying, and check the promotion for your second qualifying order."
+    ],
+    "tip": "Confirm the discount before placing each order. Do not assume delivery and service fees count towards the £15 minimum.",
+    "sourceUrl": "https://help.uber.com/ubereats/stores/article/how-do-i-apply-a-promo-code?nodeId=314c9325-abcc-48be-b137-9f392a3def4c",
+    "sourceLabel": "Uber Eats official help",
+    "status": "active",
+    "code": "eats-ns7b12g00e",
+    "codeInstructions": "Enter it at checkout before paying, or open the invitation link and confirm the promotion at checkout.",
+    "referralUrl": "https://ubereats.com/feed?promoCode=eats-ns7b12g00e",
+    "reward": "£5 off your first 2 orders",
+    "eligibility": "First 2 orders of £15 or more; account, location and invitation terms apply.",
+    "terms": [
+      "The shared invitation advertises £5 off each of the first two Uber Eats orders of £15 or more.",
+      "The combined discount is up to £10 over two qualifying orders, not £10 off one order.",
+      "Check expiry, new-user eligibility, participating locations, excluded items and any delivery or service fees in Uber Eats."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "What is the Uber Eats referral code?",
+        "Use eats-ns7b12g00e at checkout. The supplied invitation advertises £5 off each of the first two orders of £15 or more."
+      ],
+      [
+        "Does this code discount Uber rides?",
+        "No. This invitation is for Uber Eats. Use the separate Uber Rides guide for the ride invitation."
+      ]
+    ],
+    "market": "UK",
+    "claim": {
+      "primary": "code",
+      "label": "Open Uber Eats",
+      "method": "Paste the code at checkout",
+      "mobile": "Copy eats-ns7b12g00e. In Uber Eats, add an eligible order, open the cart and choose Add promo. Paste the code and apply it before placing the order.",
+      "desktop": "Copy the code, open Uber Eats in your browser, and apply it in the cart’s promotion field before paying.",
+      "codeNote": "Paste at checkout, or add it under Account → Promotions. Confirm the discount before placing each order.",
+      "check": "The £5 discount should be visible on each of your first two eligible orders of £15 or more. Only one promo code can be applied per order."
+    },
+    "research": {
+      "label": "Personal invite + provider instructions",
+      "note": "The £5 × two orders and £15 minimum are from the supplied message. Uber Eats’ help confirms code entry through Promotions or Add promo in the cart before ordering.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Uber Eats code instructions",
+        "url": "https://help.uber.com/ubereats/stores/article/how-do-i-apply-a-promo-code?nodeId=314c9325-abcc-48be-b137-9f392a3def4c"
+      }
+    ]
+  },
+  {
+    "slug": "eatclub",
+    "name": "EatClub",
+    "mark": "ec",
+    "category": "Food",
+    "description": "Public referral-site sharing is excluded by EatClub’s terms.",
+    "intro": "This EatClub invitation is inactive on this public referral site because EatClub excludes public-site referrals. Its advertised restaurant deals are not a guaranteed reward for signing up.",
+    "context": "The shared message describes restaurant deals of up to 50% off. That describes available restaurant offers, not a fixed referral sign-up benefit.",
+    "steps": [
+      "Read EatClub’s official referral terms.",
+      "Check restaurant offers, supported areas and any account requirements directly with EatClub.",
+      "Use only a referral method allowed by EatClub’s terms."
+    ],
+    "tip": "Keep the invitation terms so you can check what was offered when you signed up.",
+    "sourceUrl": "https://eatclub.com.au/referrals-terms",
+    "sourceLabel": "EatClub referral terms",
+    "status": "paused",
+    "code": "",
+    "referralUrl": "https://links.eatclub.com.au/OdVrQJtAY2b",
+    "reward": "Restaurant offers in the app",
+    "eligibility": "Invitation eligibility, location and qualifying conditions apply.",
+    "terms": [
+      "The owner supplied an EatClub invitation on 18 November 2026.",
+      "EatClub excludes public referral sites and referrals distributed to strangers; the stored invitation is inactive here."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [],
+    "market": "Check local availability",
+    "availabilityNote": "EatClub’s referral terms say referrals must be to people you personally know, and referrals posted on public referral sites or distributed to strangers will be invalidated. This invitation is not offered for public redemption here.",
+    "claim": {
+      "primary": "link",
+      "label": "Invitation inactive",
+      "method": "Not offered publicly",
+      "mobile": "No public redemption link is offered on this page.",
+      "desktop": "No public redemption link is offered on this page.",
+      "check": "EatClub excludes public referral websites and referrals to strangers."
+    },
+    "research": {
+      "label": "Public referrals excluded",
+      "note": "EatClub requires a new user to join through a personal link, redeem an offer and complete payment. Its terms invalidate referrals posted on public referral sites; the restaurant discount is not a fixed sign-up reward.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "EatClub referral terms",
+        "url": "https://eatclub.com.au/referrals-terms"
+      }
+    ]
+  },
+  {
+    "slug": "gopuff",
+    "name": "Gopuff",
+    "mark": "go",
+    "category": "Food",
+    "description": "A welcome grocery discount where Gopuff delivers.",
+    "intro": "Use my Gopuff invitation for £15 off a qualifying first order. Gopuff’s UK help instructions specify at least £30 of eligible items; check the final basket and discount before paying.",
+    "context": "Gopuff sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Open the personal invitation and register a new Gopuff account through it.",
+      "Add at least £30 of eligible items. Gopuff’s help excludes alcohol, tobacco and baby formula from the qualifying basket.",
+      "Confirm the £15 discount before paying; do not add a competing promo."
+    ],
+    "tip": "Keep the invitation terms so you can check what was offered when you signed up.",
+    "sourceUrl": "https://www.gopuff.com/gb/e/referral-terms",
+    "sourceLabel": "Gopuff UK referral terms",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://s.gopuff.com/a/YXZCST",
+    "reward": "£15 off a qualifying first order",
+    "eligibility": "New UK customers; at least £30 of eligible items, supported delivery area and no other promo.",
+    "terms": [
+      "The shared invitation offers £15 off a qualifying first order. Gopuff’s indexed UK help instructions specify a minimum £30 eligible basket.",
+      "The new customer must register using the referral link, be in a supported UK delivery area, and avoid combining this with another promotion.",
+      "Check the current minimum and item exclusions at checkout. Delivery time is not guaranteed by the referral."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "How much do I need to spend?",
+        "Gopuff’s UK help instructions specify at least £30 of eligible items. Check the current basket rules and £15 discount before paying."
+      ],
+      [
+        "Can I add a second promo code?",
+        "Gopuff’s referral instructions say no other discount or promotion can be applied to the qualifying order."
+      ]
+    ],
+    "market": "UK",
+    "claim": {
+      "primary": "link",
+      "label": "Open Gopuff invitation",
+      "method": "Link before registration",
+      "mobile": "Use the invitation to create your new Gopuff account. Add at least £30 of eligible items and check for the £15 welcome discount at checkout.",
+      "desktop": "Open the invitation in your browser or scan the QR code for your phone. Register through that invitation before placing your first order.",
+      "check": "Check the £15 discount before paying. Excluded items and other promotions do not count towards a qualifying referral."
+    },
+    "research": {
+      "label": "Provider conditions checked",
+      "note": "Gopuff’s UK referral terms and indexed help instructions were reviewed. The help article specifies £30 of eligible items; the current checkout remains the final check for this invitation.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Gopuff UK referral terms",
+        "url": "https://www.gopuff.com/gb/e/referral-terms"
+      },
+      {
+        "label": "Gopuff UK referral help",
+        "url": "https://help.gopuff.com/en_GB/articles/payments-coupons-and-discounts-uk/whats-your-referral-program/65e618c60cd4d01280329e8a"
+      }
+    ]
+  },
+  {
+    "slug": "octopus-energy",
+    "name": "Octopus Energy",
+    "mark": "oct",
+    "category": "Home",
+    "description": "Bill credit after a qualifying home energy switch.",
+    "intro": "Join Octopus Energy through my referral link for £50 credit each after a qualifying home energy switch. Compare the tariff and read the switch conditions before joining.",
+    "context": "Octopus Energy sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Open my Octopus referral link and get a quote directly from Octopus.",
+      "Compare the tariff and, if it suits you, follow the referral sign-up process.",
+      "Complete the switch and first qualifying Direct Debit, then check the referral credit in your energy account."
+    ],
+    "tip": "Use the personal referral link directly. Octopus says joining through another route, such as a switching site, does not attach this referral reward.",
+    "sourceUrl": "https://octopus.energy/blog/octopus-referrals/",
+    "sourceLabel": "Octopus Energy referral information",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://share.octopus.energy/lumpy-pup-162",
+    "reward": "£50 energy credit each",
+    "eligibility": "Eligible new domestic switches through the link; supply and first Direct Debit conditions apply.",
+    "terms": [
+      "The domestic referral offer is £50 energy-account credit for the new customer and £50 for the referrer.",
+      "Octopus says credit is paid after the new customer is on supply and the first month’s Direct Debit is successfully collected.",
+      "This is energy bill credit, not a £50 cash payout or a guarantee of a cheaper tariff. Switch timing and eligibility apply."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "When will the £50 Octopus credit arrive?",
+        "Octopus says the new customer must be on supply and have paid the first month’s Direct Debit. Credit is then applied automatically; switch delays can affect timing."
+      ],
+      [
+        "Is the reward £50 in cash?",
+        "No. This invitation describes £50 credit on each qualifying energy account."
+      ]
+    ],
+    "market": "UK",
+    "claim": {
+      "primary": "link",
+      "label": "Get an Octopus quote",
+      "method": "Get a quote through the link",
+      "mobile": "Open the personal link and get your quote directly from Octopus. If the tariff suits you, complete the switch through that referral flow.",
+      "desktop": "The same invitation works in your desktop browser. Get a quote and complete the switch directly with Octopus; there is no separate code to paste here.",
+      "check": "The £50 is energy-account credit after the qualifying switch and first successful monthly Direct Debit."
+    },
+    "research": {
+      "label": "Provider conditions checked",
+      "note": "Octopus confirms £50 energy credit each for an eligible domestic referral, after the customer is on supply and the first month’s Direct Debit has been taken.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Octopus referral information",
+        "url": "https://octopus.energy/blog/octopus-referrals/"
+      }
+    ]
+  },
+  {
+    "slug": "lebara",
+    "name": "Lebara",
+    "mark": "le",
+    "category": "Home",
+    "description": "An introductory SIM-only discount, then standard pricing.",
+    "intro": "Use my Lebara invitation for 50% off an eligible SIM-only plan for the first three months. Check the plan allowance, eligibility and full ongoing monthly price before buying.",
+    "context": "Lebara sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Open the personal invitation and read the offer displayed by the provider.",
+      "Check your eligibility and follow the invitation’s sign-up instructions.",
+      "Complete any qualifying activity within the stated deadline and check the reward with the provider."
+    ],
+    "tip": "Keep the invitation terms so you can check what was offered when you signed up.",
+    "sourceUrl": "https://www.lebara.co.uk/en/how-to-refer-and-earn.html",
+    "sourceLabel": "Lebara refer-a-friend information",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://aklam.io/pnXBN0vy",
+    "reward": "50% off the first 3 months",
+    "eligibility": "Eligible plans purchased through the link; standard charges apply after the introductory period.",
+    "terms": [
+      "The shared invitation advertises 50% off the first three months on eligible SIM-only plans.",
+      "Check the full ongoing monthly price, plan allowance, billing period, purchase eligibility and referral conditions before paying.",
+      "The owner may receive a separate referral reward. It is not the discount offered to the new customer."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "Is the 50% Lebara discount permanent?",
+        "No. The standard shared offer discounts the first three months. Eligible dated Black Friday plans have a separate introductory period. Check the full monthly price after the discount ends."
+      ]
+    ],
+    "market": "UK",
+    "promotion": {
+      "label": "Black Friday: selected 5GB and 30GB plans",
+      "startsAt": "2026-11-10",
+      "endsAt": "2026-12-01",
+      "description": "The owner’s invitation advertises 50% off the first four months for the 5GB and 30GB monthly plans when joining from 10 November to 1 December 2026. The message quotes a starting price of £2.50 for 5GB. Confirm the offer and ongoing price on the linked checkout before buying."
+    },
+    "claim": {
+      "primary": "link",
+      "label": "See Lebara plans",
+      "method": "Buy the plan through the link",
+      "mobile": "Open the Aklamio/Lebara invitation, choose an eligible SIM-only plan and buy through that flow. Check the introductory price and the full price before paying.",
+      "desktop": "The invitation can be used in a desktop browser. Stay in the linked purchase flow so the referral can be attributed, then activate the SIM and plan as instructed.",
+      "check": "Confirm the discounted months and ongoing monthly price on the selected plan. A dated Black Friday offer may differ from the standard invitation."
+    },
+    "research": {
+      "label": "Standard offer checked; dated invite noted",
+      "note": "Lebara confirms 50% off the first three months for the new customer when purchasing through a referral link. The four-month Black Friday variation is from the owner’s supplied message and has its own dates.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Lebara referral programme",
+        "url": "https://www.lebara.co.uk/en/how-to-refer-and-earn.html"
+      }
+    ]
+  },
+  {
+    "slug": "binance",
+    "name": "Binance",
+    "mark": "bn",
+    "category": "Money",
+    "description": "Inactive on this UK-focused site.",
+    "intro": "The supplied Binance campaign link is stored but is not offered for public redemption on this UK-focused site.",
+    "context": "The shared campaign message does not specify a reward amount, full task conditions or eligible jurisdictions. Crypto rewards are not guaranteed cash and involve financial risk.",
+    "steps": [
+      "Read the FCA’s guidance on crypto promotions.",
+      "Check whether any service or promotion is permitted and available in your jurisdiction.",
+      "No reward claim or task-completion instructions are provided on this page."
+    ],
+    "tip": "Keep the invitation terms so you can check what was offered when you signed up.",
+    "sourceUrl": "https://www.fca.org.uk/investsmart/investing-crypto",
+    "sourceLabel": "FCA guidance on crypto promotions",
+    "status": "paused",
+    "code": "",
+    "referralUrl": "https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_V4KXL&utm_medium=app_share_link_telegram&utm_source=referral_entrance",
+    "reward": "USDC task-based campaign",
+    "eligibility": "Invitation eligibility, location and qualifying conditions apply.",
+    "terms": [
+      "The supplied campaign link has been retained in the source content.",
+      "The campaign is inactive here and excluded from public search indexing and the public offer listing."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [],
+    "market": "Not offered to UK visitors",
+    "availabilityNote": "This USDC sign-up/task incentive is inactive on this UK-focused site. FCA guidance says crypto promotions should not offer joining gifts or refer-a-friend bonuses. No claim link is offered here.",
+    "claim": {
+      "primary": "link",
+      "label": "Invitation inactive",
+      "method": "Not offered on this UK site",
+      "mobile": "No claim link or task instructions are offered here.",
+      "desktop": "No claim link or task instructions are offered here.",
+      "check": "The USDC incentive remains inactive on this UK-focused site."
+    },
+    "research": {
+      "label": "Inactive for UK promotion",
+      "note": "The supplied campaign is task-based and does not state a fixed payment. FCA guidance on UK crypto joining and referral incentives was checked; no claim link is published here.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "FCA crypto promotion guidance",
+        "url": "https://www.fca.org.uk/investsmart/investing-crypto"
+      }
+    ]
+  },
+  {
+    "slug": "wise",
+    "name": "Wise",
+    "mark": "wi",
+    "category": "Money",
+    "description": "The visitor’s offer is shown by Wise; referrer rewards differ.",
+    "intro": "Join through my Wise invitation and check which visitor offer applies to your country. Wise describes a first-transfer discount or a free card for referred friends; the personal page did not expose a fixed amount during this check.",
+    "context": "Wise sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Open the personal invitation and read the offer displayed by the provider.",
+      "Check your eligibility and follow the invitation’s sign-up instructions.",
+      "Complete any qualifying activity within the stated deadline and check the reward with the provider."
+    ],
+    "tip": "Keep the invitation terms so you can check what was offered when you signed up.",
+    "sourceUrl": "https://wise.com/help/articles/6N8EthIMFe2OM3bMb4Za0c/how-does-the-cashback-invite-program-work",
+    "sourceLabel": "Wise invite programme help",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://wise.com/invite/ahpc/brendoncameronw",
+    "reward": "Transfer discount or card offer",
+    "eligibility": "Country, account and qualifying-activity conditions apply; check the personal invitation.",
+    "terms": [
+      "The supplied link is a personal Wise invitation. The owner reports A$30 for each qualifying friend referred.",
+      "Wise says invitation campaigns and promotional rewards can vary by group and time period. Read the offer shown to you rather than assuming the referrer’s reward applies to the visitor.",
+      "Check eligible countries, account verification, qualifying activity, deadlines and any transfer or card fees before proceeding."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "Will I receive A$30 for joining Wise?",
+        "That visitor reward is not confirmed. The A$30 supplied with this link describes what the owner receives per qualifying friend. Wise displays any visitor offer and conditions in the invitation."
+      ]
+    ],
+    "market": "Check your country",
+    "rewardSummary": "Wise describes a discounted first transfer or a free card, depending on the invitation and region. A fixed visitor value for this personal link was not publicly confirmed. The owner’s A$30 figure is not a visitor cash bonus.",
+    "referrerReward": "A$30 per qualifying friend, as reported by the owner; programme terms apply.",
+    "claim": {
+      "primary": "link",
+      "label": "Open Wise invitation",
+      "method": "Create the account through the link",
+      "mobile": "Open the invitation before registering with Wise. Check the discount or card benefit shown for your country, then follow Wise’s sign-up instructions.",
+      "desktop": "You can register through the personal invitation in your browser. Keep the referral flow intact and check which benefit is attached before paying for a transfer or card.",
+      "check": "Confirm the visitor’s benefit in Wise. Do not assume that the inviter’s A$30 reward is paid to you."
+    },
+    "research": {
+      "label": "Visitor offer depends on country",
+      "note": "Wise’s cashback-invite help describes a first-transfer discount or free card for invited friends. The personal link loads Wise but did not expose which exact visitor offer applies; a fixed value is not confirmed here.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Wise cashback-invite help",
+        "url": "https://wise.com/help/articles/6N8EthIMFe2OM3bMb4Za0c/how-does-the-cashback-invite-program-work"
+      }
+    ]
+  },
+  {
+    "slug": "monzo",
+    "name": "Monzo",
+    "mark": "m",
+    "category": "Money",
+    "description": "A variable referral reward after qualifying account activity.",
+    "intro": "My Monzo invitation advertises £10, £20 or £50 each after the referral conditions are met. The amount is selected by Monzo; £50 is not guaranteed. Check the actual invitation before applying.",
+    "context": "Monzo sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Open the Monzo invitation and enter your mobile number using the referral flow.",
+      "Read the current terms, apply for an account and complete any identity checks.",
+      "Meet the invitation’s funding and card-payment requirements within its deadline, then check the reward shown by Monzo."
+    ],
+    "tip": "Keep the invitation terms so you can check what was offered when you signed up.",
+    "sourceUrl": "https://monzo.com/legal/files/referral-variable-reward-scheme/monzo-referral-variable-reward-scheme-1.2.pdf",
+    "sourceLabel": "Monzo variable referral reward terms",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://join.monzo.com/c/8l0qc1vz",
+    "reward": "£10, £20 or £50 each",
+    "eligibility": "Eligible new UK applicants; account approval, funding, card payment and referral deadlines apply.",
+    "terms": [
+      "The supplied invitation advertises a variable £10, £20 or £50 reward for both people. The highest amount is not guaranteed.",
+      "Monzo’s published variable-reward terms require an eligible new customer to use the link, open an account, add money and make a card payment within 30 days. Confirm the terms attached to this invitation.",
+      "Published terms also describe a lower reward after a referrer passes a referral limit. The provider’s displayed invitation and current conditions take precedence.",
+      "Using a referral does not guarantee that an account application will be accepted."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "Is the Monzo reward always £50?",
+        "No. The supplied offer lists £10, £20 or £50, selected by Monzo. Referral limits and current terms can affect the amount."
+      ],
+      [
+        "What do I need to do after joining?",
+        "Read the invitation’s deadline and qualifying steps. Monzo’s published variable-reward terms include adding money and making a card payment within 30 days, alongside account eligibility requirements."
+      ]
+    ],
+    "market": "UK",
+    "claim": {
+      "primary": "link",
+      "label": "Open Monzo invitation",
+      "method": "Enter your number through the link",
+      "mobile": "Open the invitation and use its mobile-number sign-up flow. Download Monzo, apply for an eligible new account, then follow the funding and card-payment requirements.",
+      "desktop": "Start with the invitation on the web. It passes the sign-up to your phone; use the same number and finish the account steps within the invitation’s deadline.",
+      "check": "Check the deadline and the reward shown by Monzo. Published variable-reward terms use a 30-day completion window; £50 is not guaranteed."
+    },
+    "research": {
+      "label": "Personal page + provider terms checked",
+      "note": "The personal link loads Monzo’s invitation page. Published variable-reward terms describe mobile-number attribution, a new account, added money and a card payment within 30 days; the amount is selected by Monzo and referral limits can reduce it.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Monzo variable referral terms",
+        "url": "https://monzo.com/legal/files/referral-variable-reward-scheme/monzo-referral-variable-reward-scheme-1.2.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "plum",
+    "name": "Plum",
+    "mark": "pl",
+    "category": "Money",
+    "description": "Plum’s published referral reward goes to the inviter.",
+    "intro": "This is my Plum invitation. Plum’s published referral help says its programmes reward the inviter, not the friend who signs up. I have not confirmed a separate £25 visitor bonus for this link.",
+    "context": "Plum sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Read the invitation and check whether any separate visitor offer is displayed.",
+      "If you want to join, use the personal link before downloading and registering with Plum.",
+      "Complete only the required account actions you have chosen to undertake. There is no confirmed new-customer referral payout here."
+    ],
+    "tip": "Keep the invitation terms so you can check what was offered when you signed up.",
+    "sourceUrl": "https://help.withplum.com/en/articles/9849997-plum-referral-programs",
+    "sourceLabel": "Plum referral programme help",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://withplum.com/referral?referralCode=8uOqx0Wmpi",
+    "reward": "No new-customer reward confirmed",
+    "eligibility": "Completely new users through the link; campaign-specific actions and deadlines apply.",
+    "terms": [
+      "Plum’s published referral programme says only the inviter receives the referral reward; the new user is not paid for downloading and signing up.",
+      "The owner’s earlier £25-each description could not be confirmed on the invitation. It is not presented as a visitor benefit.",
+      "Campaigns can require a set number of qualifying friends and specified actions before a deadline. Read product charges and account terms before proceeding."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "Will I receive £25 for joining Plum?",
+        "Not under the ordinary referral programme described by Plum’s help. It rewards the inviter. A separate visitor offer for this personal link was not confirmed."
+      ],
+      [
+        "Must I use the link before signing up?",
+        "Yes. Plum says the friend must use the personal invitation before registration for the referral to be attributed."
+      ]
+    ],
+    "market": "UK",
+    "rewardSummary": "Plum’s published referral programme rewards the inviter, not the new customer. The personal invitation did not display a separate visitor reward, so £25 each is not advertised here.",
+    "referrerReward": "Campaign-specific. The owner reported £25, but the invitation’s current programme and qualifying-referral count must be checked in Plum.",
+    "claim": {
+      "primary": "link",
+      "label": "Open Plum invitation",
+      "method": "Use the link before registration",
+      "mobile": "Open this personal link before downloading and registering with Plum. If you choose to proceed, follow the invitation’s app handoff and the campaign’s required actions.",
+      "desktop": "The invitation offers an app-download handoff. Scan the QR code to start from your phone and use the personal link before beginning registration.",
+      "check": "Do not join expecting a £25 payment. Plum says ordinary referral programmes pay the inviter; check any separately displayed visitor promotion."
+    },
+    "research": {
+      "label": "No visitor payout in published programme",
+      "note": "Plum’s programme and how-to-invite help were checked. The personal landing page offers an app download but no £25 visitor reward. The previous “£25 each” description has been corrected.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "Who receives Plum referral rewards",
+        "url": "https://help.withplum.com/en/articles/9849997-plum-referral-programs"
+      },
+      {
+        "label": "Plum link-attribution instructions",
+        "url": "https://help.withplum.com/en/articles/9853003-referrals-how-to-invite"
+      }
+    ]
+  },
+  {
+    "slug": "jp-morgan-personal-investing",
+    "name": "J.P. Morgan Personal Investing",
+    "mark": "JPM",
+    "category": "Money",
+    "description": "A temporary management-fee offer; other costs can apply.",
+    "intro": "The J.P. Morgan Personal Investing invitation offers six months without portfolio management fees on qualifying investments. Other costs can apply. Capital at risk; read the provider’s offer and product terms before deciding to invest.",
+    "context": "J.P. Morgan Personal Investing sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Open the invitation and read the six-month promotional fee terms and eligible products.",
+      "Consider the product, risk and all charges before deciding whether to apply.",
+      "If you proceed, follow the provider’s sign-up and funding requirements, then check when the promotional fee period starts and ends."
+    ],
+    "tip": "No management fees does not mean there are no costs. Check underlying fund costs and other charges, plus the standard management fee after the promotion.",
+    "sourceUrl": "https://support.personalinvesting.jpmorgan.com/?article=115001550892-Referring-a-friend",
+    "sourceLabel": "J.P. Morgan referring-a-friend help",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://jpmorgan-personal-investing.mention-me.com/m/ol/jo1qahpo-brendon-ward",
+    "reward": "6 months with no management fees",
+    "eligibility": "Qualifying new customers and eligible products; the invitation’s funding and timing conditions apply.",
+    "terms": [
+      "The shared invitation offers six months without portfolio management fees on qualifying investments, subject to the provider’s terms.",
+      "Other charges, including underlying investment costs where applicable, may remain payable. Standard management fees apply after the promotional period.",
+      "Check eligible accounts, required funding and the start date of the fee-free period in the invitation. Tax treatment and product suitability depend on individual circumstances.",
+      "Capital at risk. A referral benefit is not a reason on its own to invest."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "Does six months with no management fees mean investing is completely free?",
+        "No. The promotion concerns portfolio management fees. Other investment costs or charges may still apply, and normal management fees resume after the promotional period."
+      ],
+      [
+        "Is my investment guaranteed?",
+        "No. Investment values can fall and you may get back less than you invest. Read the provider’s risk information before proceeding."
+      ]
+    ],
+    "market": "UK",
+    "shortName": "J.P. Morgan",
+    "riskNote": "Capital at risk. Investment values can fall and you may get back less than you invest. This referral is not a personal investment recommendation.",
+    "claim": {
+      "primary": "link",
+      "label": "Open J.P. Morgan invitation",
+      "method": "Register through Mention Me",
+      "mobile": "Open the personal Mention Me invitation, read the live offer and register through its referral flow before completing your provider application.",
+      "desktop": "The personal Mention Me invitation works in a browser. Follow that referral registration rather than applying through an unrelated general promotion.",
+      "check": "The current referral help describes six months without management fees for an eligible new investment. Read the live invitation’s funding and timing rules; other charges apply."
+    },
+    "referrerReward": "Published help describes a £50 or £100 Amazon.co.uk gift card for the referrer after qualifying investment; it is not the visitor’s reward.",
+    "research": {
+      "label": "Referral help checked; live terms apply",
+      "note": "The ongoing referring-a-friend help describes six management-fee-free months for eligible new investments. A separate generic six-month promotional page says that campaign ended; it is not used as proof of this referral’s availability. The personal link opens Mention Me but does not expose readable terms without its interactive form.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "J.P. Morgan referral help",
+        "url": "https://support.personalinvesting.jpmorgan.com/?article=115001550892-Referring-a-friend"
+      },
+      {
+        "label": "Personal Mention Me invitation",
+        "url": "https://jpmorgan-personal-investing.mention-me.com/m/ol/jo1qahpo-brendon-ward"
+      }
+    ]
+  },
+  {
+    "slug": "etoro",
+    "name": "eToro",
+    "mark": "eT",
+    "category": "Money",
+    "description": "A personal account invitation with no promised visitor payout.",
+    "intro": "This is my personal eToro invitation. The shared message does not promise a cash or investment reward to the person joining. Read eToro’s product risks, fees and eligibility information before deciding whether to open an account.",
+    "context": "eToro sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
+    "steps": [
+      "Open the invitation and read the terms applicable to your country and account.",
+      "Review product risks, charges and account requirements before deciding whether to apply.",
+      "If you proceed, use eToro’s own onboarding process. Do not assume that signing up earns a visitor bonus."
+    ],
+    "tip": "Choose whether a service is suitable based on its products, risks and costs, rather than a referrer’s reward.",
+    "sourceUrl": "https://www.etoro.com/customer-service/terms-conditions/",
+    "sourceLabel": "eToro official terms and referral conditions",
+    "status": "active",
+    "code": "",
+    "referralUrl": "https://etoro.tw/490LPDJ",
+    "reward": "No visitor bonus confirmed",
+    "eligibility": "Account eligibility, approval, country and current referral conditions apply.",
+    "terms": [
+      "The supplied invitation does not specify a reward for the person signing up.",
+      "eToro’s UK referral terms describe rewards credited to the qualifying referrer. That is separate from any offer eToro may display to a new customer.",
+      "Eligibility, qualifying conditions and fees depend on the country and account. A referral does not guarantee approval or investment returns.",
+      "Capital at risk. Read eToro’s current product and risk information before proceeding."
+    ],
+    "checkedAt": "2026-11-18",
+    "expiresAt": "",
+    "questions": [
+      [
+        "Will I receive a cash bonus for joining eToro through this link?",
+        "No visitor cash bonus was specified in the invitation. The published UK referral scheme describes rewards for the referrer. Only rely on a visitor offer if eToro explicitly displays it to you."
+      ]
+    ],
+    "market": "UK",
+    "rewardSummary": "No new-customer reward was specified in the shared invitation. eToro’s published UK referral terms describe rewards for the referrer, not a guaranteed visitor bonus.",
+    "referrerReward": "A qualifying referrer may receive a reward under eToro’s current UK terms; no fixed amount is promised here.",
+    "riskNote": "Capital at risk. Investments can lose value. This invitation is not a recommendation to trade or a promise of returns.",
+    "claim": {
+      "primary": "link",
+      "label": "Open eToro invitation",
+      "method": "Personal account invitation",
+      "mobile": "Open the personal invitation and follow eToro’s account process if you decide the service suits you. There is no separate manual code to paste here.",
+      "desktop": "Use the same personal invitation in your browser. Review the account’s risk information, charges and country-specific terms before applying.",
+      "check": "The published UK referral scheme pays the referrer. No visitor cash reward is confirmed for this invitation."
+    },
+    "research": {
+      "label": "No visitor bonus in supplied invitation",
+      "note": "The UK referral terms reviewed describe payments to the referrer. The owner’s shared invitation does not specify a new-customer reward; none is promised on this page.",
+      "checkedAt": "2026-11-18"
+    },
+    "sources": [
+      {
+        "label": "eToro official referral terms",
+        "url": "https://www.etoro.com/customer-service/terms-conditions/"
+      }
+    ]
+  }
+]
