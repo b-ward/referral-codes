@@ -49,7 +49,7 @@
       if (started) location.reload();
     }
     if (accepted) window['ga-disable-' + id] = false;
-    settings?.focus();
+    settings?.focus({ preventScroll: true });
   }
   window.sidekickTrack = (event, brand) => {
     if (accepted && /^[a-z0-9-]+$/.test(brand || '')) window.gtag('event', event, { brand, transport_type: 'beacon' });
@@ -62,7 +62,7 @@
   document.querySelector('[data-analytics-reject]').addEventListener('click', () => choose(false));
   if (settings) {
     settings.hidden = false;
-    settings.addEventListener('click', () => { banner.hidden = false; document.querySelector('[data-analytics-reject]').focus(); });
+    settings.addEventListener('click', () => { banner.hidden = false; document.querySelector('[data-analytics-reject]').focus({ preventScroll: true }); });
   }
   banner.hidden = Boolean(valid);
   if (valid && saved.accepted) { accepted = true; start(); }
