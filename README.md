@@ -67,7 +67,7 @@ The files work on Workers Static Assets or Pages, with no database or functions.
 
 ### Workers with GitHub integration
 
-1. Create a Worker named `signup-sidekick` in Cloudflare (matching `wrangler.jsonc`), connecting `b-ward/referral-codes` through Git integration.
+1. Use the Cloudflare Worker named `referral-codes` (matching `wrangler.jsonc`), connecting `b-ward/referral-codes` through Git integration. The public site brand remains SignUp Sidekick.
 2. Production branch: `main`. Root directory: the repository root. Build command: `npm ci && npm run check && npm run build`. Deploy command: `npx wrangler deploy`. The existing Wrangler file supplies `dist` as the static assets directory.
 3. Under **Settings → Build**, configure build variables, not runtime variables: initially `INDEXABLE=false`. After the first deployment, set `SITE_URL` to the actual public HTTPS origin (no path), keep `BASE_PATH` empty, and set `INDEXABLE=true` when ready for search. Trigger another build after changing these values. If selecting a custom domain, use that canonical origin. Explicit test configurations are isolated from these production build variables.
 4. Add your chosen custom domain in Cloudflare. Rebuild when changing domains so canonical links and sitemap match it.
