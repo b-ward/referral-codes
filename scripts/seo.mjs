@@ -27,7 +27,7 @@ export function guideQuestions(o, live, disclosure) {
   return [
     ...(o.questions || [[`How does this ${o.name} referral work?`, referralAnswer(o, true)]]),
     [`When does this ${o.name} invitation expire?`, o.expiresAt ? `The recorded offer end date is ${o.expiresAt}. Check the provider’s invitation for any separate reward expiry or qualifying-activity deadline.` : `No fixed end date was supplied with this invitation. That does not mean it is permanent. Check ${o.name} for the current expiry and any deadline to complete qualifying activity.`],
-    [`Why might my ${o.name} referral not work?`, 'The invitation may have expired, reached a referral limit, or be restricted to another account or location. Confirm that you followed its sign-up instructions before creating an account. Contact the provider through official support if an eligible reward is missing.'],
+    [`Why might the ${o.name} referral not work?`, 'The invitation may have expired, reached a referral limit, or be restricted to another account or location. Confirm that you followed its sign-up instructions before creating an account. Contact the provider through official support if an eligible reward is missing.'],
     ['Does the site owner receive a reward?', disclosure]
   ];
 }

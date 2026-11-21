@@ -33,7 +33,7 @@
         "The personal Lime invitation supplied on 18 November 2026 advertises £4 ride credit. Open the invitation before creating an account and check the reward and conditions shown by Lime for your location."
       ],
       [
-        "Can I enter a Lime referral code manually?",
+        "Can a Lime referral code be entered manually?",
         "This page provides a Lime referral link, not a confirmed manually redeemable code. Use the invitation link before creating an account. Do not assume the identifier in the URL can be typed into a promo field."
       ],
       [
@@ -155,7 +155,7 @@
     "expiresAt": "",
     "questions": [
       [
-        "How do I get the Voi referral ride?",
+        "How is the Voi referral ride claimed?",
         "Open the Voi invitation link on your phone and follow the sign-up instructions. The shared invitation describes a free ride, but does not state the allowance or expiry. Check those limits in Voi before riding."
       ],
       [
@@ -230,7 +230,7 @@
         "This invitation is for Uber Rides. It does not advertise an Uber Eats reward."
       ],
       [
-        "When should I apply the Uber referral?",
+        "When should the Uber referral be applied?",
         "Use the personal invitation before requesting your first trip. Check the promotion and its conditions in Uber’s Wallet before booking; Uber says a promo cannot be applied after a trip has been requested."
       ]
     ],
@@ -288,7 +288,7 @@
         "Use IZGYLZM if the invitation asks for a referral code. Opening the personal link is the first step."
       ],
       [
-        "How do I earn the advertised 20,000 points?",
+        "How are the advertised 20,000 points earned?",
         "The reviewed invitation specifies Premium Credit and £1,000 spend in the first 30 days, subject to eligibility and approval. Other products and welcome rewards differ."
       ]
     ],
@@ -459,11 +459,11 @@
     "expiresAt": "",
     "questions": [
       [
-        "How much do I need to spend?",
+        "What is the minimum spend?",
         "Gopuff’s UK help instructions specify at least £30 of eligible items. Check the current basket rules and £15 discount before paying."
       ],
       [
-        "Can I add a second promo code?",
+        "Can a second promo code be added?",
         "Gopuff’s referral instructions say no other discount or promotion can be applied to the qualifying order."
       ]
     ],
@@ -498,10 +498,10 @@
     "mark": "oct",
     "category": "Home",
     "description": "Bill credit after a qualifying home energy switch.",
-    "intro": "Join Octopus Energy through my referral link for £50 credit each after a qualifying home energy switch. Compare the tariff and read the switch conditions before joining.",
+    "intro": "Join Octopus Energy through this referral link for £50 credit each after a qualifying home energy switch. Compare the tariff and read the switch conditions before joining.",
     "context": "Octopus Energy sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
     "steps": [
-      "Open my Octopus referral link and get a quote directly from Octopus.",
+      "Open the Octopus referral link and get a quote directly from Octopus.",
       "Compare the tariff and, if it suits you, follow the referral sign-up process.",
       "Complete the switch and first qualifying Direct Debit, then check the referral credit in your energy account."
     ],
@@ -668,7 +668,7 @@
     "mark": "wi",
     "category": "Money",
     "description": "The visitor’s offer is shown by Wise; referrer rewards differ.",
-    "intro": "Join through my Wise invitation and check which visitor offer applies to your country. Wise describes a first-transfer discount or a free card for referred friends; the personal page did not expose a fixed amount during this check.",
+    "intro": "Join through this Wise invitation and check which visitor offer applies to your country. Wise describes a first-transfer discount or a free card for referred friends; the personal page did not expose a fixed amount during this check.",
     "context": "Wise sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
     "steps": [
       "Open the personal invitation and read the offer displayed by the provider.",
@@ -692,7 +692,7 @@
     "expiresAt": "",
     "questions": [
       [
-        "Will I receive A$30 for joining Wise?",
+        "Is there an A$30 reward for joining Wise?",
         "That visitor reward is not confirmed. The A$30 supplied with this link describes what the owner receives per qualifying friend. Wise displays any visitor offer and conditions in the invitation."
       ]
     ],
@@ -725,7 +725,7 @@
     "mark": "m",
     "category": "Money",
     "description": "A variable referral reward after qualifying account activity.",
-    "intro": "My Monzo invitation advertises £10, £20 or £50 each after the referral conditions are met. The amount is selected by Monzo; £50 is not guaranteed. Check the actual invitation before applying.",
+    "intro": "This Monzo invitation advertises £10, £20 or £50 each after the referral conditions are met. The amount is selected by Monzo; £50 is not guaranteed. Check the actual invitation before applying.",
     "context": "Monzo sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
     "steps": [
       "Open the Monzo invitation and enter your mobile number using the referral flow.",
@@ -754,7 +754,7 @@
         "No. The supplied offer lists £10, £20 or £50, selected by Monzo. Referral limits and current terms can affect the amount."
       ],
       [
-        "What do I need to do after joining?",
+        "What steps are required after joining?",
         "Read the invitation’s deadline and qualifying steps. Monzo’s published variable-reward terms include adding money and making a card payment within 30 days, alongside account eligibility requirements."
       ]
     ],
@@ -785,7 +785,7 @@
     "mark": "pl",
     "category": "Money",
     "description": "Plum’s published referral reward goes to the inviter.",
-    "intro": "This is my Plum invitation. Plum’s published referral help says its programmes reward the inviter, not the friend who signs up. I have not confirmed a separate £25 visitor bonus for this link.",
+    "intro": "This Plum referral invitation is available for new users. Plum’s published referral help says its programmes reward the inviter, not the friend who signs up. A separate £25 visitor bonus has not been confirmed for this link.",
     "context": "Plum sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
     "steps": [
       "Read the invitation and check whether any separate visitor offer is displayed.",
@@ -809,11 +809,11 @@
     "expiresAt": "",
     "questions": [
       [
-        "Will I receive £25 for joining Plum?",
+        "Is there a £25 reward for joining Plum?",
         "Not under the ordinary referral programme described by Plum’s help. It rewards the inviter. A separate visitor offer for this personal link was not confirmed."
       ],
       [
-        "Must I use the link before signing up?",
+        "Is the referral link required before signing up?",
         "Yes. Plum says the friend must use the personal invitation before registration for the referral to be attributed."
       ]
     ],
@@ -879,7 +879,7 @@
         "No. The promotion concerns portfolio management fees. Other investment costs or charges may still apply, and normal management fees resume after the promotional period."
       ],
       [
-        "Is my investment guaranteed?",
+        "Is the investment guaranteed?",
         "No. Investment values can fall and you may get back less than you invest. Read the provider’s risk information before proceeding."
       ]
     ],
@@ -917,7 +917,7 @@
     "mark": "eT",
     "category": "Money",
     "description": "A personal account invitation with no promised visitor payout.",
-    "intro": "This is my personal eToro invitation. The shared message does not promise a cash or investment reward to the person joining. Read eToro’s product risks, fees and eligibility information before deciding whether to open an account.",
+    "intro": "This eToro referral invitation is available for new users. The shared message does not promise a cash or investment reward to the person joining. Read eToro’s product risks, fees and eligibility information before deciding whether to open an account.",
     "context": "eToro sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
     "steps": [
       "Open the invitation and read the terms applicable to your country and account.",
@@ -942,7 +942,7 @@
     "expiresAt": "",
     "questions": [
       [
-        "Will I receive a cash bonus for joining eToro through this link?",
+        "Is there a cash bonus for joining eToro through this link?",
         "No visitor cash bonus was specified in the invitation. The published UK referral scheme describes rewards for the referrer. Only rely on a visitor offer if eToro explicitly displays it to you."
       ]
     ],
