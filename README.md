@@ -57,9 +57,9 @@ Builds generate `/qr/<slug>.svg` from each active original invitation URL, with 
 
 ## Before launch
 
-Edit `content/site.json`: choose `name`, set `origin` to the canonical HTTPS domain (no path), set `owner` to your public author name, and set `indexable: true`. `basePath` is empty for a root domain. `SITE_URL`, `BASE_PATH` and `INDEXABLE` environment variables override these values.
+Edit `content/site.json`: choose `name`, set `origin` to the canonical HTTPS domain (no path), set `owner` to the public publisher name and `ownerType` to `Organization`, and set `indexable: true`. `basePath` is empty for a root domain. `SITE_URL`, `BASE_PATH` and `INDEXABLE` environment variables override these values.
 
-The draft uses Brendon as the public author, has no invented domain, and keeps indexing off. Indexable builds require an origin, owner and live offer. Keep temporary preview domains `INDEXABLE=false`.
+The site uses SignUp Sidekick as the public publisher, has no invented domain, and keeps indexing off. Indexable builds require an origin, owner and live offer. Keep temporary preview domains `INDEXABLE=false`.
 
 ## Recommended hosting: Cloudflare
 

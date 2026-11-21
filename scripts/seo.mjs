@@ -47,6 +47,6 @@ export function guideSchema({ o, live, site, absolute, route, title, description
     mainEntityOfPage: { '@id': `${canonical}#webpage` },
     about: { '@type': 'Thing', name: o.name },
     citation: o.sourceUrl,
-    ...(site.owner ? { author: { '@type': 'Person', name: site.owner, url: absolute('/about/') } } : {})
+    ...(site.owner ? { author: { '@type': site.ownerType || 'Person', name: site.owner, url: absolute('/about/') } } : {})
   }] : [])];
 }

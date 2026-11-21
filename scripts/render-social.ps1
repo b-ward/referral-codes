@@ -18,7 +18,7 @@ try {
   $canvas.DrawString('SignUp Sidekick', $brandFont, $lime, 84, 60)
   $canvas.DrawString('Referral codes.', $headlineFont, $white, 80, 205)
   $canvas.DrawString('Yours to use.', $italicFont, $lime, 80, 315)
-  $canvas.DrawString('A personal list of offers, links and claim instructions.', $bodyFont, $white, 90, 510)
+  $canvas.DrawString('Referral offers, links and clear claim instructions.', $bodyFont, $white, 90, 510)
   $target = Join-Path $PSScriptRoot '../public/social.png'
   $image.Save([System.IO.Path]::GetFullPath($target), [System.Drawing.Imaging.ImageFormat]::Png)
 } finally {

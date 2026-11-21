@@ -278,7 +278,7 @@ test('four simple categories and authentic local logos cover the whole directory
   assert.deepEqual([...home.matchAll(/data-filter="([^"]+)"/g)].map(m => m[1]), ['all', 'Travel', 'Money', 'Home', 'Food']);
   assert.equal([...home.matchAll(/data-offer /g)].length, offers.filter(o => isLive(o, now)).length);
   assert.doesNotMatch(home, /mini-ticket|orbit-one|hero-art/);
-  assert.match(home, /A small perk for a fresh start\./);
+  assert.match(home, /Check the offer before you sign up\./);
   for (const o of offers) {
     const brand = brands[o.slug];
     assert.ok(brand.sourceUrl.startsWith('https://'));
@@ -295,7 +295,7 @@ test('every guide has sourced reward notes and specific mobile and desktop claim
     assert.ok(o.claim.mobile.length > 30 && o.claim.desktop.length > 30);
     assert.match(html, /<h3>On your phone<\/h3>/);
     assert.match(html, /<h3>On a computer<\/h3>/);
-    assert.match(html, /What I checked/);
+    assert.match(html, /Sources & offer checks/);
   }
   const gopuff = await f.html('guide/gopuff/index.html');
   assert.match(gopuff, /at least £30 of eligible items/);

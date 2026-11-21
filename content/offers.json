@@ -5,7 +5,7 @@
     "mark": "li",
     "category": "Travel",
     "description": "A little help with your next ride across town.",
-    "intro": "Get £4 ride credit with my Lime referral invitation. Open the link on your phone before you create an account, then check the offer and qualifying conditions shown by Lime.",
+    "intro": "Get £4 ride credit with this Lime referral invitation. Open the link on your phone before you create an account, then check the offer and qualifying conditions shown by Lime.",
     "context": "Lime uses referral links to connect an invitation with a new account. Open the invitation before signing up, then check the offer displayed by Lime. Rewards and availability can differ by location.",
     "steps": [
       "Open the personal referral link on the phone you will use for Lime.",
@@ -51,7 +51,7 @@
     },
     "research": {
       "label": "Personal invite + provider instructions",
-      "note": "The £4 amount comes from Brendon’s shared invitation. Lime confirms link-based new-account attribution and a qualifying first ride within 60 days; the invitation has not been redeemed as a test.",
+      "note": "The £4 amount comes from the supplied referral invitation. Lime confirms link-based new-account attribution and a qualifying first ride within 60 days; the invitation has not been redeemed as a test.",
       "checkedAt": "2026-11-18"
     },
     "sources": [
@@ -67,7 +67,7 @@
     "mark": "f",
     "category": "Travel",
     "description": "For the scenic route, or just getting home.",
-    "intro": "Use my Forest invitation or code pi1pLj3a when joining. The shared message does not state the reward amount, so check what Forest offers you before taking a paid ride.",
+    "intro": "Use this Forest invitation or code pi1pLj3a when joining. The shared message does not state the reward amount, so check what Forest offers you before taking a paid ride.",
     "context": "Before your first journey, check the Forest app for the current referral instructions, service area and parking rules. The invitation will explain which sign-up or ride steps count towards the reward.",
     "steps": [
       "Open the Forest invitation or copy pi1pLj3a from the referral panel. Check the current offer and who can use it.",
@@ -131,7 +131,7 @@
     "mark": "voi",
     "category": "Travel",
     "description": "Make a little more of your local journeys.",
-    "intro": "My Voi invitation advertises a free ride when you join using the referral link. Open it on your phone and check Voi’s conditions, including any ride limit, before signing up.",
+    "intro": "This Voi invitation advertises a free ride when you join using the referral link. Open it on your phone and check Voi’s conditions, including any ride limit, before signing up.",
     "context": "Check Voi’s app for local vehicle availability and the rules that apply to your account. Referral eligibility and reward conditions should be confirmed in the invitation before you start a ride.",
     "steps": [
       "Open the full Voi invitation on your phone.",
@@ -197,7 +197,7 @@
     "mark": "Uber",
     "category": "Travel",
     "description": "A better start to your first trip.",
-    "intro": "Get 50% off your first five Uber rides, up to £5 off each ride, with my personal referral invitation. Check the offer shown by Uber before creating your account. This invitation is for rides, not Uber Eats.",
+    "intro": "Get 50% off your first five Uber rides, up to £5 off each ride, with this referral invitation. Check the offer shown by Uber before creating your account. This invitation is for rides, not Uber Eats.",
     "context": "Uber promotions can depend on your account and location. Check the invitation for eligibility. Uber’s help explains that a promo needs to be added before requesting a trip; it cannot be applied afterwards.",
     "steps": [
       "Open the personal invitation before creating your Uber account.",
@@ -260,7 +260,7 @@
     "mark": "y",
     "category": "Money",
     "description": "A points welcome offer, with product and qualifying conditions to check.",
-    "intro": "My Yonder invitation offers up to 20,000 welcome points on Premium Credit after £1,000 spend in the first 30 days. Use the link, with code IZGYLZM if requested. Premium is £17.99 a month; the invitation quotes 73.1% representative APR. Borrow responsibly.",
+    "intro": "This Yonder invitation offers up to 20,000 welcome points on Premium Credit after £1,000 spend in the first 30 days. Use the link, with code IZGYLZM if requested. Premium is £17.99 a month; the invitation quotes 73.1% representative APR. Borrow responsibly.",
     "context": "An invitation is not a guarantee of acceptance or rewards. Read Yonder’s own information about the selected product, eligibility, fees and any qualifying activity. Choose a product based on whether it suits you, rather than the referral reward alone.",
     "steps": [
       "Open the personal invitation and check which product and membership it covers.",
@@ -324,7 +324,7 @@
     "mark": "eats",
     "category": "Food",
     "description": "A welcome discount for your first two food orders.",
-    "intro": "Use my Uber Eats code eats-ns7b12g00e at checkout for £5 off each of your first two orders of £15 or more. Check the discount and any exclusions before paying.",
+    "intro": "Use this Uber Eats code eats-ns7b12g00e at checkout for £5 off each of your first two orders of £15 or more. Check the discount and any exclusions before paying.",
     "context": "This invitation is for Uber Eats food orders. It is separate from the Uber Rides invitation on this site. Check whether fees or excluded items count towards the minimum spend.",
     "steps": [
       "Copy eats-ns7b12g00e or open the invitation link before ordering.",
@@ -435,7 +435,7 @@
     "mark": "go",
     "category": "Food",
     "description": "A welcome grocery discount where Gopuff delivers.",
-    "intro": "Use my Gopuff invitation for £15 off a qualifying first order. Gopuff’s UK help instructions specify at least £30 of eligible items; check the final basket and discount before paying.",
+    "intro": "Use this Gopuff invitation for £15 off a qualifying first order. Gopuff’s UK help instructions specify at least £30 of eligible items; check the final basket and discount before paying.",
     "context": "Gopuff sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
     "steps": [
       "Open the personal invitation and register a new Gopuff account through it.",
@@ -557,7 +557,7 @@
     "mark": "le",
     "category": "Home",
     "description": "An introductory SIM-only discount, then standard pricing.",
-    "intro": "Use my Lebara invitation for 50% off an eligible SIM-only plan for the first three months. Check the plan allowance, eligibility and full ongoing monthly price before buying.",
+    "intro": "Use this Lebara invitation for 50% off an eligible SIM-only plan for the first three months. Check the plan allowance, eligibility and full ongoing monthly price before buying.",
     "context": "Lebara sets the eligibility, qualifying activity and reward conditions. Read the invitation and the provider’s terms before proceeding.",
     "steps": [
       "Open the personal invitation and read the offer displayed by the provider.",

@@ -3,8 +3,9 @@
   "description": "Find referral codes for rides, food delivery, mobile plans, energy and financial apps. Check visitor rewards, eligibility and clear steps to claim.",
   "origin": "",
   "basePath": "",
-  "owner": "Brendon",
+  "owner": "SignUp Sidekick",
   "googleSiteVerification": "TV8doIL1406-1bxKv060D9wcFJzjwByWDgjPrwPuz7M",
   "indexable": false,
-  "googleAnalyticsId": "G-Q63L739CS5"
+  "googleAnalyticsId": "G-Q63L739CS5",
+  "ownerType": "Organization"
 }
